@@ -1,0 +1,174 @@
+.container{
+    font-family: sans-serif;
+    margin: 20px 45px;
+}
+
+p{
+    margin: 0;
+}
+
+.first-part{
+    width: 680px;
+}
+
+.profil{
+    display: flex;
+}
+
+.profil h3{
+    margin-top: 20px;
+    padding-bottom: 10px;
+}
+
+.profil-img{
+    width: 60px;
+    height: 60px;
+    background-size: cover;
+    border-radius: 50%;
+    margin-left: 312px;
+    margin-top: 20px;
+}
+
+hr{
+   height: 1px;
+   background-color: rgb(189, 188, 188);
+   border: none;
+}
+
+img{
+    width: 25px;
+}
+
+.flex{
+    display: flex;
+    margin-top: 10px;
+}
+
+.icon-detail h4{
+    margin: 0;
+    padding-bottom: 8px;
+}
+
+.icon-detail p{
+    margin: 0;
+    color:rgb(189, 188, 188);
+}
+
+.icon-detail{
+    padding: 19px 0 0 15px;
+}
+
+a{
+    color:black;
+    font-weight: bold;
+}
+
+.h4{
+    margin: 0;
+    padding: 30px 0 10px 0;
+}
+
+.p-pad{
+    padding-top: 20px;
+}
+
+.card{
+    width: 320px;
+    height: 400px;
+    border: 1px solid rgb(189, 188, 188);
+    border-radius: 10px;
+    padding: 25px;
+    margin: 100px 0 0 190px ;
+    box-shadow: 1px 1px 8px rgb(226, 224, 224) ;
+}
+
+.card-flex{
+    display: flex;
+}
+
+.card-flex h3{
+    margin: 0;
+}
+
+.card-flex h3 span{
+    text-decoration: line-through;
+}
+
+.card-flex p span{
+    text-decoration: underline;
+}
+
+
+.star {
+    width: 12px;
+    padding: 0 3px 15px 3px;
+}
+
+h3{
+    margin: 0px;
+}
+
+h3 span, p span{
+    color: gray;
+}
+
+table{
+    border-collapse: collapse;
+    width: 100%;
+    margin: 10px 0 30px 0;
+    font-size: small;
+    border-radius: 10px;
+    border-style: hidden; /* hide standard table (collapsed) border */
+    box-shadow: 0 0 0 1px rgb(185, 182, 182); /* this draws the table border  */ 
+}
+
+td{
+    border: 1px solid rgb(121, 119, 119);
+    padding: 15px;
+}
+
+.rltv{
+    position: relative;
+}
+
+.rltv img{
+width: 15px;
+padding: 0 10px 79px 0;
+}
+
+.reserve{
+    color: white;
+    text-decoration: none;
+    background-color: rgb(221, 43, 102);
+    width: 100%;
+    padding: 15px 129px;
+    border-radius: 10px;
+}
+
+.center{
+    text-align: center;
+    margin: 25px 0 10px 0;
+}
+
+.relative{
+    position: relative;
+    display: flex;
+    padding-bottom: 10px;
+}
+
+.right{
+    position: absolute;
+    right: 0;
+}
+
+.underline{
+    text-decoration: underline;
+}
+
+.right span{
+    color: rgb(3, 109, 3);
+}
+
+h5{
+    margin: 0;
+}
